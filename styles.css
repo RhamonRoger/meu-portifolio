@@ -1,0 +1,15 @@
+
+/* Reset básico */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Customizações adicionais */
+header {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
